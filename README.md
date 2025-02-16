@@ -47,9 +47,9 @@
 
 ## 📷 Screenshots   
 
-| Home Screen | Attendence Tracking |  
+| Attendence Tracking | Attendence Record |  
 |------------|------------|  
-| <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Employee%20Manager%20App/1.jpg" width="200" height="500"/>  | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Employee%20Manager%20App/2.jpg" width="200" height="500"/> | 
+| <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Employee%20Manager%20App/2.jpg" width="200" height="500"/>  | <img src="https://github.com/Noor45/Uploaded-Files/blob/main/Employee%20Manager%20App/5.jpg" width="200" height="500"/> | 
 
 📌 **View More Screenshots** 👉 [Screenshots.md](./screenshots.md)  
 
